@@ -1,0 +1,10 @@
+PORTB is motor port
+
+PB5- R motor En
+PB0- R motor Bwd
+PB1- R motor Fwd
+
+PB6- L motor En
+PB3- L motor Bwd
+PB4- L motor Fwd
+
