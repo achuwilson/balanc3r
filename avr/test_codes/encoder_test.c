@@ -1,5 +1,5 @@
 /*
-
+test the rotary encoders
 INT0 left A
 INT1 left B
 
