@@ -20,7 +20,7 @@ INT4 right B
 #include <util/setbaud.h>
 
 uint64_t count;
-char str[20];
+char str[16];
 
 void port_init(void)
 {
